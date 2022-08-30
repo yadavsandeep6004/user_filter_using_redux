@@ -1,0 +1,9 @@
+
+
+const ACTION ={
+    FETCH_USER:'USER/REQUEST',
+    FETCH_USER_SUCCESS : 'USER/SUCCESS',
+    FETCH_USER_FAILED :'USER/FAILED'
+}
+
+export default ACTION

@@ -1,0 +1,24 @@
+.user-list{
+    background-color: #fff;
+    max-height: 400px;
+    overflow-y: auto;
+}
+
+.user-info{
+    display: flex;
+    padding: 20px;
+}
+
+.user-info img{
+    border-radius: 50%;
+    object-fit: cover;
+    height: 50px;
+    width: 50px;
+    margin-right: 10px;
+}
+
+.user-info p{
+    font-size: 12px;
+    margin-top: 10px;
+}
+
